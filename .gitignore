@@ -1,1 +1,7 @@
 .DS_Store
+*.npy
+*.pt
+*.pickle
+mlp_fold_*.json
+__pycache__/
+*.pyc
