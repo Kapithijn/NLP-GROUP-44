@@ -1,6 +1,6 @@
 jupyter
 numpy
-scipy
+scipy<1.14
 matplotlib
 pandas
 seaborn
@@ -18,3 +18,4 @@ jax
 numpyro
 arviz
 textstat
+fse==1.1.0; python_version >= "3.11"
