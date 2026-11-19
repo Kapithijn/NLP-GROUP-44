@@ -5,6 +5,6 @@
 mlp_fold_*.json
 __pycache__/
 *.pyc
-Week 2/nlp1-student-tutorial2-2026/part2/glove.6B.100d.txt
+Week 2/nlp1-student-tutorial2-2026/part2/glove.6B.*d.txt
 .gitignore
 Week 2/nlp1-student-tutorial2-2026/part2/glove.6B.zip
